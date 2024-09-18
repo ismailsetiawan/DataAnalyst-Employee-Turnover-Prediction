@@ -1,0 +1,3 @@
+Kita memiliki dataset yang berisi data tentang karyawan, seperti usia, gaji, tingkat kepuasan, jam kerja, dll. 
+Dataset ini  dalam format CSV, yang akan diolah menggunakan Pandas.
+Dataset berada dalam folder data source
