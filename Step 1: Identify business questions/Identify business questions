@@ -1,0 +1,33 @@
+Step 1: Identify business questions
+    # Business Questions untuk Data Turnover Karyawan
+        Apa Faktor-Faktor Utama yang Mempengaruhi Turnover Karyawan?
+            Apakah ada variabel tertentu yang memiliki pengaruh besar terhadap kemungkinan karyawan meninggalkan perusahaan, seperti gaji, kepuasan kerja, atau lama bekerja di perusahaan?
+        Bagaimana Profil Karyawan yang Berpotensi Tinggi untuk Keluar dari Perusahaan?
+            Apa karakteristik umum dari karyawan yang cenderung meninggalkan perusahaan dibandingkan dengan mereka yang tetap, seperti usia, jabatan, atau departemen?
+        Bagaimana Hubungan antara Gaji dan Tingkat Turnover?
+            Apakah karyawan dengan gaji lebih rendah lebih cenderung untuk meninggalkan perusahaan? Apakah kenaikan gaji dapat mengurangi tingkat turnover?
+        Apakah Tingkat Kepuasan Kerja Mempengaruhi Kemungkinan Turnover?
+            Seberapa besar dampak dari kepuasan kerja terhadap keputusan karyawan untuk tetap atau meninggalkan perusahaan? Apakah kepuasan yang rendah berkorelasi dengan turnover yang lebih tinggi?
+        Apakah Jam Kerja Mingguan Memengaruhi Turnover?
+            Apakah ada hubungan antara jumlah jam kerja per minggu dan kemungkinan karyawan untuk keluar dari perusahaan? Apakah karyawan yang bekerja lebih banyak jam cenderung meninggalkan perusahaan?
+        Bagaimana Turnover Berbeda di Antara Departemen atau Posisi yang Berbeda?
+            Departemen atau posisi mana yang memiliki tingkat turnover tertinggi? Apakah ada departemen tertentu yang mengalami masalah lebih besar dalam mempertahankan karyawan?
+        Apa Pengaruh dari Promosi Terhadap Tingkat Turnover?
+            Apakah karyawan yang mendapatkan promosi cenderung memiliki tingkat turnover yang lebih rendah dibandingkan dengan mereka yang tidak mendapatkan promosi?
+        Bagaimana Durasi Bekerja di Perusahaan Mempengaruhi Turnover?
+            Apakah karyawan dengan masa kerja yang lebih lama atau lebih pendek memiliki kecenderungan berbeda untuk meninggalkan perusahaan?
+        Apa Pengaruh Skor Kinerja terhadap Turnover?
+            Apakah karyawan dengan skor kinerja yang lebih rendah lebih cenderung untuk keluar dari perusahaan dibandingkan dengan mereka yang memiliki skor kinerja tinggi?
+        Apakah Ada Perbedaan dalam Tingkat Turnover Berdasarkan Gender?
+            Apakah ada perbedaan signifikan dalam tingkat turnover antara karyawan pria dan wanita? Apakah gender mempengaruhi kemungkinan karyawan untuk meninggalkan perusahaan?
+    # How to use these questions in   Analysis process: 
+        Analisis Deskriptif:
+            Gunakan statistik deskriptif dan visualisasi untuk memahami distribusi variabel seperti gaji, kepuasan kerja, dan jam kerja.
+        Analisis Korelasi:
+            Hitung korelasi antara variabel numerik dan turnover untuk melihat hubungan antara faktor-faktor yang mempengaruhi turnover.
+        Analisis Bivariate:
+            Gunakan visualisasi seperti scatter plots atau box plots untuk mengeksplorasi hubungan antara dua variabel, seperti gaji dan turnover.
+        Model Prediktif:
+            Terapkan model machine learning (misalnya, logistic regression, decision trees) untuk memprediksi kemungkinan turnover berdasarkan fitur-fitur yang relevan.
+        Segmentasi dan Profiling:
+            Kelompokkan data berdasarkan departemen atau posisi untuk melihat perbedaan tingkat turnover dan identifikasi area dengan masalah yang lebih besar.
